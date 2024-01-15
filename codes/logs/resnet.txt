@@ -1,0 +1,190 @@
+Epoch 0/49
+----------
+train Loss: 0.7949 Acc: 0.5801
+val Loss: 7.0191 Acc: 0.5264
+
+Epoch 1/49
+----------
+train Loss: 0.6357 Acc: 0.6484
+val Loss: 0.7444 Acc: 0.5851
+
+Epoch 2/49
+----------
+train Loss: 0.5411 Acc: 0.7331
+val Loss: 0.4941 Acc: 0.7542
+
+Epoch 3/49
+----------
+train Loss: 0.5117 Acc: 0.7627
+val Loss: 7.0358 Acc: 0.5408
+
+Epoch 4/49
+----------
+train Loss: 0.5456 Acc: 0.7319
+val Loss: 0.4951 Acc: 0.7458
+
+Epoch 5/49
+----------
+train Loss: 0.5131 Acc: 0.7535
+val Loss: 0.7339 Acc: 0.6007
+
+Epoch 6/49
+----------
+train Loss: 0.4876 Acc: 0.7707
+val Loss: 0.9279 Acc: 0.5540
+
+Epoch 7/49
+----------
+train Loss: 0.4584 Acc: 0.7887
+val Loss: 2.3345 Acc: 0.5803
+
+Epoch 8/49
+----------
+train Loss: 0.4433 Acc: 0.7903
+val Loss: 1.5096 Acc: 0.5791
+Epoch 00009: reducing learning rate of group 0 to 2.1000e-03.
+
+Epoch 9/49
+----------
+train Loss: 0.4347 Acc: 0.8018
+val Loss: 0.4320 Acc: 0.7734
+
+Epoch 10/49
+----------
+train Loss: 0.4089 Acc: 0.8178
+val Loss: 0.4494 Acc: 0.7866
+
+Epoch 11/49
+----------
+train Loss: 0.3947 Acc: 0.8282
+val Loss: 0.7605 Acc: 0.6906
+
+Epoch 12/49
+----------
+train Loss: 0.3661 Acc: 0.8418
+val Loss: 1.0409 Acc: 0.7830
+
+Epoch 13/49
+----------
+train Loss: 0.3873 Acc: 0.8306
+val Loss: 0.5406 Acc: 0.7350
+
+Epoch 14/49
+----------
+train Loss: 0.3742 Acc: 0.8358
+val Loss: 1.0260 Acc: 0.6163
+
+Epoch 15/49
+----------
+train Loss: 0.3958 Acc: 0.8330
+val Loss: 0.4128 Acc: 0.8177
+
+Epoch 16/49
+----------
+train Loss: 0.3674 Acc: 0.8330
+val Loss: 0.4051 Acc: 0.8165
+
+Epoch 17/49
+----------
+train Loss: 0.3460 Acc: 0.8466
+val Loss: 0.7536 Acc: 0.7542
+
+Epoch 18/49
+----------
+train Loss: 0.3469 Acc: 0.8530
+val Loss: 0.6590 Acc: 0.7194
+
+Epoch 19/49
+----------
+train Loss: 0.3273 Acc: 0.8546
+val Loss: 0.7503 Acc: 0.7086
+
+Epoch 20/49
+----------
+train Loss: 0.3640 Acc: 0.8338
+val Loss: 0.4053 Acc: 0.8141
+
+Epoch 21/49
+----------
+train Loss: 0.3289 Acc: 0.8526
+val Loss: 2.5968 Acc: 0.5576
+
+Epoch 22/49
+----------
+train Loss: 0.3372 Acc: 0.8606
+val Loss: 0.3593 Acc: 0.8333
+
+Epoch 23/49
+----------
+train Loss: 0.3150 Acc: 0.8682
+val Loss: 0.5450 Acc: 0.7890
+
+Epoch 24/49
+----------
+train Loss: 0.3113 Acc: 0.8678
+val Loss: 0.5741 Acc: 0.7326
+
+Epoch 25/49
+----------
+train Loss: 0.3032 Acc: 0.8742
+val Loss: 0.3843 Acc: 0.8609
+
+Epoch 26/49
+----------
+train Loss: 0.3085 Acc: 0.8750
+val Loss: 0.2836 Acc: 0.8933
+
+Epoch 27/49
+----------
+train Loss: 0.2988 Acc: 0.8738
+val Loss: 1.2655 Acc: 0.7602
+
+Epoch 28/49
+----------
+train Loss: 0.3058 Acc: 0.8694
+val Loss: 0.6603 Acc: 0.7590
+
+Epoch 29/49
+----------
+train Loss: 0.3004 Acc: 0.8738
+val Loss: 0.4463 Acc: 0.8034
+
+Epoch 30/49
+----------
+train Loss: 0.2932 Acc: 0.8714
+val Loss: 0.2954 Acc: 0.9017
+
+Epoch 31/49
+----------
+train Loss: 0.2919 Acc: 0.8765
+val Loss: 0.4592 Acc: 0.7758
+
+Epoch 32/49
+----------
+train Loss: 0.2888 Acc: 0.8841
+val Loss: 0.4545 Acc: 0.8094
+Epoch 00033: reducing learning rate of group 0 to 1.4700e-03.
+
+Epoch 33/49
+----------
+train Loss: 0.2628 Acc: 0.8889
+val Loss: 0.3021 Acc: 0.8825
+
+Epoch 34/49
+----------
+train Loss: 0.2590 Acc: 0.8941
+val Loss: 0.3800 Acc: 0.8561
+
+Epoch 35/49
+----------
+train Loss: 0.2544 Acc: 0.8929
+val Loss: 0.6936 Acc: 0.7602
+
+Epoch 36/49
+----------
+train Loss: 0.2386 Acc: 0.8977
+val Loss: 0.4453 Acc: 0.8273
+Early stopping.
+Training complete in 16m 59s
+Best val Acc: 0.901679
+Accuracy of the network on the 834 test images: 91.60671462829737 %
